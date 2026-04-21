@@ -1,4 +1,4 @@
 title: My Jekyll Site
 description: A conversion of my vanilla site to Jekyll.
-baseurl: "" # The subpath of your site, e.g. /project-name/
-url: "https://example.github.io"
+baseurl: "/" # The subpath of your site, e.g. /project-name/
+url: "https://luigiDAR.github.io"
